@@ -7,8 +7,8 @@ from awsglue.job import Job
 
 
 
-input_path = 's3://dee-source/hudi.csv'
-output_path = 's3://dee-bucket1/dest/'
+input_path = 's3:--input_path--'
+output_path = 's3:--output_path--'
 
 
 
