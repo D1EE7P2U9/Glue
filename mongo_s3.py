@@ -1,6 +1,6 @@
 import pymongo
 import pandas as pd
-import numpy as np
+
 
 #mongo Creds
 Mongo_String = '<<your-mongo-connection-string>>'
